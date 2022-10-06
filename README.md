@@ -1,7 +1,7 @@
 - 👋 Hi, I’m manish kumar
-- 👀 I’m interested in backend Development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on backend Development
+- 👀 I’m interested in Automation
+- 🌱  learning Python Automation
+- 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me through website
 
 <!---
